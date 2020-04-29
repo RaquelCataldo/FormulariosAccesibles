@@ -1,0 +1,13 @@
+*{
+    margin: 300 ;
+    padding: 300 ;
+}
+
+body{
+    background-color: #d9f6e7;
+    color: #455d52;
+}
+
+p{
+    font-size: 25px;
+}
