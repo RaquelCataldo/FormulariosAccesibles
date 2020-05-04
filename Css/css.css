@@ -11,3 +11,22 @@ body{
 p{
     font-size: 25px;
 }
+
+
+/* css.css | https://raquelcataldo.github.io/FormulariosAccesibles/Css/css.css */
+
+body {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+* {
+  /* margin: 300; */
+  /* padding: 300; */
+}
+
+/* En línea #1 | https://raquelcataldo.github.io/FormulariosAccesibles/ */
+
+input {
+  font-size: 18px;
+}
